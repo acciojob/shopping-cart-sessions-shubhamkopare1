@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+body {
+  font-family: sans-serif;
+  max-width: 500px;
+  margin: 40px auto;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 8px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+button {
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+#clear-cart-btn {
+  margin-top: 15px;
+  padding: 8px 16px;
+}
